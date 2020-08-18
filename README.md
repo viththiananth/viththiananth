@@ -3,7 +3,7 @@
 ###<!--
 ###**viththiananth/viththiananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-###Here are some ideas to get you started:
+####Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning R & Deep Learning
@@ -14,3 +14,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
