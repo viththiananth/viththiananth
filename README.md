@@ -16,7 +16,7 @@
 -->
 
 
-| Syntax | Description |
+| Description | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Courses | Data Science |
+| Certificates | Data Science |
